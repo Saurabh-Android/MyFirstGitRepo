@@ -1,1 +1,2 @@
 Hello from master Line1
+Hello from master Line2
